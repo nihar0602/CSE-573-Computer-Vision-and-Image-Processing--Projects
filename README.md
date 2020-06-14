@@ -89,10 +89,10 @@ using the images in the dataset. The trained detector should be able to locate a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Report](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/blob/master/Project%20-3/Report.pdf)
 
 
-**output:** <br>
+**Output:** <br>
 
 <img src="Project -3/Results/827.jpg" width="45%" height="300" align="left"><img src="Project -3/Results/898.jpg" width="45%" height="300" align="left">
-<img src="Project -3/Results/903.jpg" width="45%" height="300" align="left"><img src="Project -3/Results/995.jpg" width="45%" height="300" align="left">
+<img src="Project -3/Results/903.jpg" width="300" height="300" align="left"><img src="Project -3/Results/995.jpg" width="300" height="300" align="left">
 
 
 ---
