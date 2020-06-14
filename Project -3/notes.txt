@@ -1,0 +1,10 @@
+The training part of our code requires the installation of openmpi 
+In ubuntu you can do this by:
+
+sudo apt-get install openmpi-bin
+pip3 install mpi4py
+
+To run training after installing above dependencies, please use the following syntax
+python3 FaceDetection.py 0 1
+
+Also, you will need the "Model_files" for loading train images to train the model.
