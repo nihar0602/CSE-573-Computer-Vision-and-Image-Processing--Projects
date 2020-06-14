@@ -91,7 +91,7 @@ using the images in the dataset. The trained detector should be able to locate a
 
 **output:** <br>
 
-<img src="Project_03/sample_output/1.png" width="300" height="250"><img src="Project_03/sample_output/2.png" width="300" height="250"><img src="Project_03/sample_output/3.png" width="250" height="250">
+<img src="Project -3/Results/827.jpg" width="300" height="250"><img src="Project -3/Results/898.jpg" width="300" height="250"><img src="Project -3/Results/903.jpg" width="250" height="250">
 
 
 ---
