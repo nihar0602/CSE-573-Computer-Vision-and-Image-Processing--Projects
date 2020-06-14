@@ -83,7 +83,7 @@ using the images in the dataset. The trained detector should be able to locate a
 - Implemented `integral image` for the feature extraction. 
 - Implemented `Adaboost` algorithm to extract best features that can detect faces. 
 - Trained the data set using Google Cloud Platform. 
-- An attempt `CASCADING` algorithm was made to reject non-face region quickly
+- An attempt on `CASCADE` algorithm was made to reject non-face region quickly
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Report](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/blob/master/Project%20-3/Report.pdf)
