@@ -43,7 +43,7 @@ Edge detection using `Sobel` filter:
 - Implemented `NCC (Normalized Cross Correlation)` for matching the template with the given image.
 
 
-### [Panorama/Image Stitching]https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-2) :
+### [Panorama/Image Stitching](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-2) :
 <img src="Project -1/data/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
