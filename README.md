@@ -93,7 +93,7 @@ using the images in the dataset. The trained detector should be able to locate a
 **Output:** <br>
 
 <img src="Project -3/Results/827.jpg" width="400" height="300" align="left"><img src="Project -3/Results/898.jpg" width="400" height="300" align="left">
-<img src="Project -3/Results/903.jpg" width="400" height="300" align="left"><img src="Project -3/Results/995.jpg" width="400" height="300" align="left">
+<img src="Project -3/Results/903.jpg" width="400" height="300" align="left"><img src="Project -3/Results/932.jpg" width="400" height="300" align="left">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
