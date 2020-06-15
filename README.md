@@ -4,7 +4,7 @@
   <b> Course offered by Professor David Doermann in Spring 2020 </b>
 </p>
 
-### [Edge Detection](Project -1) :
+### [Edge Detection](https://github.com/nihar0602/CSE-573-Computer-Vision-and-Image-Processing--Projects/tree/master/Project%20-1) :
 <img src="Project -1/data/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
