@@ -1,6 +1,6 @@
 # CSE 573: Computer Vision and Image Processing
 <p align="center">
-<img src="Project -1/data/ub.png" alt="ub_logo.jpg" width="100" height="100"> <img src="Project -1/data/ub logo.png" alt="ub_log.jpg"> <br>
+<img src="Project -1/data/ub.png" alt="ub_logo.jpg" width="100" height="100">     <img src="Project -1/data/ub logo.png" alt="ub_log.jpg"> <br>
 
   <b> Course offered by Professor David Doermann in Spring 2020 </b>
 </p>
