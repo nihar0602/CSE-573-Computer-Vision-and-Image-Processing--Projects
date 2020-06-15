@@ -9,7 +9,7 @@
 <img src="Project -1/data/bar.jpg" alt="bar.jpg" width="1100" height="3"> <br>
 
 **Problem:** 
-`Edge Detection` :The goal of this task is to experiment with two commonly used edge detection operator, i.e.,Prewitt operator and Sobel operator.Specifically, the task is to detect edges in a given image. Do not use any API provided by opencv and numpy in the code except(“np.sqrt()”, “np.zeros()”, “np.ones()”, “np.multiply()”, “np.divide()”, “cv2.imread()”,“cv2.imshow()”, “cv2.imwrite()”, and “cv2.resize()”)
+`Edge Detection` :The goal of this task is to experiment with two commonly used edge detection operator, i.e.,Prewitt operator and Sobel operator.Specifically, the task is to detect edges in a given image. Do not use any API provided by opencv and numpy in the code except(“`np.sqrt()`”, “`np.zeros()`”, “`np.ones()`”, “`np.multiply()`”, “`np.divide()`”, “`cv2.imread()`”,“`cv2.imshow()`”, “`cv2.imwrite()`”, and “`cv2.resize()`”)
 
 **Approach:**
 - The project applied `Sobel` and `Prewitt` filters to detect edges in a given image
